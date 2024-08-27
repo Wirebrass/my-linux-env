@@ -23,6 +23,7 @@ pipx
 puppet
 python3
 ss
+sslscan
 sudo
 tar
 terraform
